@@ -38,7 +38,7 @@ async function callPythonMicroservice(fileBuffer: Uint8Array, fileName: string) 
   body.set(part2, part1.length);
   body.set(part3, part1.length + part2.length);
 
-  const pythonURL = "http://<YOUR_PYTHON_SERVICE_HOST>:8080/process"; // <-- CHANGE THIS!
+  const pythonURL = "http://localhost:8000/process"; // <-- CHANGE THIS!
   const resp = await fetch(pythonURL, {
     method: "POST",
     headers: { "Content-Type": `multipart/form-data; boundary=${boundary}` },
