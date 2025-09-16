@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/22362599/give.me.a.README.file.to.add.for.this.entire.proje.md)
+
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 # give me a README file to add for this entire project
