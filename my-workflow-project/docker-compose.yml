@@ -1,0 +1,5 @@
+# Docker Compose configuration file for my-workflow-project
+version: '3.8'
+
+services:
+  # Services will be defined here
