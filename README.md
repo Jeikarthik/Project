@@ -1,10 +1,3 @@
-
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me a README file to add for this entire project
-
-Here is a complete, copy‑paste‑ready README for the integrated project repository.[^1][^2]
-
 # Cognito Nexus — AI Document Workflow Platform[^2][^1]
 
 This repository orchestrates ingestion, pre‑OCR classification, OCR, NLP insights, multi‑department routing, and a web UI for metro/enterprise document operations.[^1][^2]
